@@ -40,4 +40,3 @@ public class QuickSort {
         ArrayUtil.printTable("Quick Sort", sizes, times);
     }
 }
-
